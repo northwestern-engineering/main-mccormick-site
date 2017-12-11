@@ -2,13 +2,13 @@
 
 ### My Sites Widget {#my-sites-widget}
 
-If you have access to more than one site in Cascade, you will see a list of **recently** visited sites under the **My Sites** widget. This allows you to quickly navigate to the site(s).
+If you have access to more than one site in Cascade, you will see a list of **recently** visited sites under the **My Sites** widget. This allows you to quickly navigate to the site\(s\).
 
 ![21](../assets/21.png)
 
 ### My Upcoming Tasks Widget {#my-upcoming-tasks-widget}
 
-This is a new feature in Cascade 8\. You can also create a task by clicking **Add a Task** button. When you click add a task button, a pop-up window appears where you can enter a **Name** for the task, a **Description**, **Assigned User** (by default it’s assigned to the person creating the task), set a **Priority**, enter a **Due Date** and list any **Related Content** (for example –a file or image, or a webpage)
+This is a new feature in Cascade 8. You can also create a task by clicking **Add a Task** button. When you click add a task button, a pop-up window appears where you can enter a **Name** for the task, a **Description**, **Assigned User** \(by default it’s assigned to the person creating the task\), set a **Priority**, enter a **Due Date** and list any **Related Content** \(for example –a file or image, or a webpage\)
 
 ![22](../assets/22.png)
 
@@ -52,5 +52,8 @@ The **Notifications** widget lists messages related to publishing and un-publish
 
 ### Reconfigure Dashboard {#reconfigure-dashboard}
 
-*   You can drag and drop widgets to rearrange them on your dashboard.
-*   You can add/remove widgets by clicking on **Add Widget** button.
+* You can drag and drop widgets to rearrange them on your dashboard.
+* You can add/remove widgets by clicking on **Add Widget** button.
+
+
+
