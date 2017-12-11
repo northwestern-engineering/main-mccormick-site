@@ -1,0 +1,15 @@
+# Main McCormick Site {#main-mccormick-site}
+
+![1](export/assets/1.png)
+
+Updating Main McCormick Site in Cascade
+
+A Guide for Site Administrators
+
+**By the McCormick Office of Marketing and Communications**
+
+**and IT Resources**
+
+**Version 1.0**
+
+Updated October 13, 2017
