@@ -2,17 +2,17 @@
 
 As you build and maintain your webpages in Cascade, you can type in your content by hand using the WYSIWYG content editor. You may find you need to input larger amounts of content from Microsoft Word documents or Adobe PDF files.
 
-Important!
+#### Important!
 
-Clicking the “Cut,” “Copy,” or “Paste” buttons in the Cascade editor don&#039;t work.
+Clicking the “Cut,” “Copy,” or “Paste” buttons in the Cascade editor don't work.
 
 Use keyboard hotkeys instead:
 
-**Cut:** “Control + X” (for PC) or “Command + X” (for Mac)
+**Cut:** “Control + X” \(for PC\) or “Command + X” \(for Mac\)
 
-**Copy:** “Control + C” (for PC) or “Command + C” (for Mac)
+**Copy:** “Control + C” \(for PC\) or “Command + C” \(for Mac\)
 
-**Paste:** “Control + V,” (for PC) or “Command + V” (for Mac).
+**Paste:** “Control + V,” \(for PC\) or “Command + V” \(for Mac\).
 
 Before copying and pasting any content into Cascade, please review the following:
 
@@ -27,3 +27,4 @@ Another option you could use is to **first paste your content into a plain text 
 **Whenever you paste or enter text into Cascade, you will need to reformat your text using the tools in Cascade’s editor toolbar,** creating headers, paragraphs, links, and other formatting manually as desired.
 
 Making sure your text is pasted into Cascade as plain text will ultimately save you a lot of trouble later and ensure that your content appears exactly how you would like it to appear on the web.
+
