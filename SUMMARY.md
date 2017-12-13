@@ -6,9 +6,9 @@
   * [Tablet Size](whats_responsive/tablet_size.md)
   * [Mobile Phone Size](whats_responsive/mobile_phone_size.md)
 * [Module 1: Cascade Basics I – Getting Familiar](module_1_cascade_basics_i__getting_familiar/README.md)
-  * [Logging in to Cascade	](module_1_cascade_basics_i__getting_familiar/logging_in_to_cascade.md)
+  * [Logging in to Cascade    ](module_1_cascade_basics_i__getting_familiar/logging_in_to_cascade.md)
   * [The Home Screen ](module_1_cascade_basics_i__getting_familiar/the_home_screen.md)
-  * [The Toolbar	](module_1_cascade_basics_i__getting_familiar/the_toolbar.md)
+  * [The Toolbar    ](module_1_cascade_basics_i__getting_familiar/the_toolbar.md)
   * [The Dashboard](module_1_cascade_basics_i__getting_familiar/the_dashboard.md)
   * [Assets](module_1_cascade_basics_i__getting_familiar/assets.md)
 * [Module 2: Editing a Basic Page](module_2_editing_a_basic_page/README.md)
@@ -35,7 +35,7 @@
 * [Module 4: Cascade Basics II – Structural Additions/Changes](module_4_cascade_basics_ii__structural_additionsch/README.md)
   * [Creating Section Folders](module_4_cascade_basics_ii__structural_additionsch/creating_section_folders.md)
   * [Editing Index Pages](module_4_cascade_basics_ii__structural_additionsch/editing_index_pages.md)
-  * [Creating Webpages (Second-Level Navigation)](module_4_cascade_basics_ii__structural_additionsch/creating_webpages_second-level_navigation.md)
+  * [Creating Webpages \(Second-Level Navigation\)](module_4_cascade_basics_ii__structural_additionsch/creating_webpages_second-level_navigation.md)
   * [Creating Third-Level Navigation](module_4_cascade_basics_ii__structural_additionsch/creating_third-level_navigation.md)
   * [Folder Order: Changing Your Site’s Navigation](module_4_cascade_basics_ii__structural_additionsch/folder_order_changing_your_sites_navigation.md)
   * [Copying Folders/Files](module_4_cascade_basics_ii__structural_additionsch/copying_foldersfiles.md)
@@ -47,5 +47,8 @@
 * [Module 5: Other Helpful Tips](module_5_other_helpful_tips/README.md)
   * [Mark Content for Review](module_5_other_helpful_tips/mark_content_for_review.md)
   * [Versions](module_5_other_helpful_tips/versions.md)
-  * [Creating Line or Paragraph Breaks	](module_5_other_helpful_tips/creating_line_or_paragraph_breaks.md)
+  * [Creating Line or Paragraph Breaks    ](module_5_other_helpful_tips/creating_line_or_paragraph_breaks.md)
   * [Basic Troubleshooting](module_5_other_helpful_tips/basic_troubleshooting.md)
+
+
+
