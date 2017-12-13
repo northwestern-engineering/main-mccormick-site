@@ -14,7 +14,7 @@ This security warning is not an indicator of an actual security threat; it can s
 
 Should this error occur, simply return to the login URL \([http://mordac.itcs.northwestern.edu/](http://mordac.itcs.northwestern.edu/)\) and your browser will automatically redirect you to the Home Screen, so you can begin working in Cascade.
 
-Best Practice:
+#### Best Practice:
 
 **McCormick IT recommends Cascade users work in Chrome or Firefox.** Internet Explorer also works, but Chrome and Firefox generally perform better.
 
