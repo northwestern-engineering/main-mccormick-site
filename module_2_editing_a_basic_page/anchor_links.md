@@ -8,17 +8,15 @@ Important!
 
 Use lowercase keywords separated by hyphens. Do not use spaces or special characters in your anchors.
 
-2. Keep close track of your anchor link names!
+1. Keep close track of your anchor link names!
 
 Cascade’s system for linking to anchors in a page does not provide a list of anchors to choose from - you have to enter the anchor name yourself. If the anchor name you enter isn’t exactly right, the link won’t work!
 
-3. Always test your anchor links after publishing them.
+1. Always test your anchor links after publishing them.
 
 If you find problems, it’ll be much easier to correct them immediately than it would be hours or days later.
 
 They are most often used on Web pages with a large amount of content, as they offer the ability to go directly to a single piece of content rather than scrolling down through the entire page. For example, the “back to top” links often used in long lists are actually pointing to the same page anchor at the top of the page.
-
-
 
 **To insert an anchor:**
 
