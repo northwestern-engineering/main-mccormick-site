@@ -1,5 +1,5 @@
 ```
-{% block README %}
+{% block pageContent %}
 ```
 
 # What’s Responsive? {#what-s-responsive}
