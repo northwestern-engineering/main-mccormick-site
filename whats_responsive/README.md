@@ -1,7 +1,3 @@
-```
-{% block README %}
-```
-
 # What’s Responsive? {#what-s-responsive}
 
 ![2](../assets/2.jpeg)
@@ -13,7 +9,7 @@ The layout of the page changes and items in the page shrink, shift around and co
 Take a look at how the basic page transforms as the screen decreases from desktop size down to mobile:
 
 ```
-{% endblock %}
+
 ```
 
 
