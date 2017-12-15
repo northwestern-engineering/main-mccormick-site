@@ -6,11 +6,9 @@
 
 # A Guide for Site Administrators
 
-test
+
 
 ### By the McCormick Office of Marketing and Communications and IT Resources
-
-
 
 #### Version 1.0
 
