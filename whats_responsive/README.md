@@ -8,9 +8,7 @@ The layout of the page changes and items in the page shrink, shift around and co
 
 Take a look at how the basic page transforms as the screen decreases from desktop size down to mobile:
 
-```
 
-```
 
 
 
