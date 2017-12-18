@@ -7,6 +7,3 @@
 ```
 {% include "git+https://github.com/northwestern-engineering/department-site.git/module_5_department_page_types/README.md" %}
 ```
-
-{% include "./assets.md" %}
-
