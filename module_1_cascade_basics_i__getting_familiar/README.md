@@ -4,5 +4,3 @@
 {% include "./the_toolbar.md" %}
 ```
 
-{% include "./the_toolbar.md" %}
-
