@@ -10,7 +10,7 @@
 
 {% raw %}
 
-{% include "git+https://github.com/northwestern-engineering/department-site.git/module\_5\_department\_page\_types/README.md\#0.0.1" %}
+{% include "git+https://github.com/northwestern-engineering/department-site.git/module_5_department_page_types/README.md#0.0.1" %}
 
 {% endraw %}
 
