@@ -6,7 +6,7 @@ To create a heading in Cascade, select the text you wish to use as a header, the
 
 The importance of a heading descends as its number ascends, so information used as a Heading 2 should be more important than that of a Heading 3.
 
-![52](../assets/52.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/52.png)
 
 #### Best Practice:
 

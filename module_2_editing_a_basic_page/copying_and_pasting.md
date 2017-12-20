@@ -18,7 +18,7 @@ Before copying and pasting any content into Cascade, please review the following
 
 In most cases, **copying and pasting directly from Word or PDF documents into Cascade is not recommended**. Documents from word processing programs often contain hidden formatting which can create errors in the way content is displayed on the web.
 
-![54](../assets/54.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/54.png)
 
 To remove hidden formatting, it is recommended that you select the “**Paste as Text**” located in the Edit drop-down menu in the toolbar. With that button selected, text you paste into Cascade will automatically be stripped of any hidden formatting.
 
