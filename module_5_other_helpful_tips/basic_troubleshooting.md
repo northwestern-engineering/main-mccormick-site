@@ -18,11 +18,11 @@ If the page still doesn't load correctly, it may still be in the process of publ
 
 * Select the Help menu on the top right of the toolbar.
 
-![](/assets/125.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/125.png)
 
 * Then select “Publish Queue”. There you can see what assets are in the process of publishing.
 
-![](/assets/126.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/126.png)
 
 If the page has been published and the problem still remains, or the publisher appears to be stuck, you may **contact McCormick IT** at web-updates@mccormick.northwestern.edu. IT may be able to address the problem.
 
