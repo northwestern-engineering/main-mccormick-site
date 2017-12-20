@@ -1,6 +1,6 @@
 # What’s Responsive? {#what-s-responsive}
 
-![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/assets/2.jpeg)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/2.jpeg)
 
 Today, you can access websites on a desktop, laptop, tablet, mobile phone and other devices, each with varying screen sizes. Responsive design is a method of creating a flexible or fluid website layout that will adapt to any size screen.
 
