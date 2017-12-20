@@ -1,3 +1,4 @@
 ## Mobile Phone Size {#mobile-phone-size}
 
-![4-1](../assets/4-1.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/assets/4-1.png)
+

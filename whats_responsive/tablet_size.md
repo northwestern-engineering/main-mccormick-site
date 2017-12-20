@@ -1,3 +1,4 @@
 ## Tablet Size {#tablet-size}
 
-![3-1](../assets/3-1.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/assets/3-1.png)
+

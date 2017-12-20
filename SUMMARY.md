@@ -50,5 +50,3 @@
   * [Creating Line or Paragraph Breaks    ](module_5_other_helpful_tips/creating_line_or_paragraph_breaks.md)
   * [Basic Troubleshooting](module_5_other_helpful_tips/basic_troubleshooting.md)
 
-
-
