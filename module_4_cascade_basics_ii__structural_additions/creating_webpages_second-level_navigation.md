@@ -2,7 +2,7 @@
 
 Pages that are not the “index” page in a folder will appear to a visitor as a second-level of links in your website’s left-hand navigation.
 
-![107](../assets/107.png)![](/assets/108.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/107.png)![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/108.png)
 
 1. \(Optional\): Navigate to the folder where you want to create a new webpage. \(If you don’t do this now, you can choose the destination folder in a moment.\)
 2. In the top Menu Bar, click “Add Content,” then choose “Basic Webpage.” The “New Page” window will appear in your Main Panel.

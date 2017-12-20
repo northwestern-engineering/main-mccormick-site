@@ -6,4 +6,5 @@ If you would like to create a third level of navigation, create a new folder ins
 
 **NOTE:** You will need to publish all folders affected by your changes in order for the left-hand navigation on your website to reflect the latest updates.
 
-![109](../assets/109.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/109.png)
+

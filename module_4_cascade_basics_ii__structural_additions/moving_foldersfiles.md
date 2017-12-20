@@ -2,17 +2,17 @@
 
 To move a single folder or file, click on the folder or file and select **Move** from the top menu of the site content page. You can also hover over assets in the left navigation panel and right-click and select “Move” from the contextual menu.
 
-![](/assets/113.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/113.png)
 
 On the next screen, select a New Folder. This opens a window that allows you to view folders within your site.
 
-![114](../assets/114.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/114.png)
 
 In the folder navigation window, you can choose from the list of **Recent** folders, or **Browse** to the new folder, or perform a **Search**.
 
 Click the Choose button to confirm the appropriate folder and to close this window.
 
-![](/assets/115.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/115.png)
 
 You’ll go back to the **Move page** screen where you’ll see **New Folder** field populated with the new folder that you just selected.
 
@@ -22,7 +22,7 @@ Locate and click **Move** button.
 
 You are then taken to the page preview screen. A message at the top of the asset will confirming that the asset has been moved to the selected folder.
 
-![](/assets/116.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/116.png)
 
 To move **multiple** folders or files at once:
 

@@ -11,7 +11,7 @@ It is highly recommended that you **create a Section Folder in Cascade for each 
 
 Since Cascade generates your site’s navigation from folders and their names, it’s important to name them properly. This begins when you create a folder.
 
-![](/assets/102.png)![](/assets/103.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/102.png)![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/103.png)
 
 1. For this example, we’ll create a “student-projects” folder which will contain pages telling visitors about McCormick student projects.
 2. In the Menu bar, click “Add Content,” and then click “Section Folder.”
@@ -25,7 +25,5 @@ Since Cascade generates your site’s navigation from folders and their names, i
    2. **“Include when publishing”** means that this folder and its contents can be published with the rest of your site, so they will appear on the live website.
 7. Click “Submit.”
 
-![](/assets/104.png)
-
-
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/104.png)
 
