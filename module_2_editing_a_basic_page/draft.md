@@ -2,13 +2,13 @@
 
 A “Draft” is exactly what the name implies: a working, but not complete, copy of a webpage with changes in progress. Drafts are automatically created and periodically updated as you work on a page.
 
-![66](../assets/66.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/66.png)
 
 To save a page as a draft, click the “**Save & Preview**” button at the top right of the Edit window. This allows you to view your draft after saving it.
 
 Drafts are useful when you’re working on a page but need to stop and focus on something else for a while. If you go back in **Edit** mode, you’ll see a yellow bar with three options:
 
-![67](../assets/67.jpeg)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/67.jpeg)
 
 1. **Preview the changes** – If you click here, you see a preview of your draft. You can also see a preview of the last saved version from here.
 2. **Resume editing –** allows you to edit your draft.
@@ -16,7 +16,7 @@ Drafts are useful when you’re working on a page but need to stop and focus on 
 
 You can find all saved drafts under the **My Content** widget on your Dashboard.
 
-![68](../assets/68.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/68.png)
 
 #### Important:
 

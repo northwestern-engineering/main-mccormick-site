@@ -20,7 +20,7 @@ They are most often used on Web pages with a large amount of content, as they of
 
 **To insert an anchor:**
 
-![](/assets/59.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/59.png)
 
 1. Go to the area of the page where you want the anchor to be \(usually near a heading\) and click the anchor tool.
 2. Enter an anchor id \(name\) and click “Ok.” **Anchor names must start with a letter** and cannot include spaces.
