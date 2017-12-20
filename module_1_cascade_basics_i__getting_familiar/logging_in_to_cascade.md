@@ -4,11 +4,11 @@ Open a browser and enter the following URL \(or click this link\): [http://morda
 
 Enter your Net ID and password. Then press “Enter” or click “Log In.” Click “Continue” if a security warning message pops up.
 
-![](/assets/5.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/5.png)
 
 This security warning is not an indicator of an actual security threat; it can safely be ignored while using Cascade.
 
-![6](../assets/6.jpeg)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/6.jpeg)
 
 **NOTE:** On occasion after logging into Cascade, your browser may indicate you are logged in, but not take you to Cascade’s Home Screen.
 
