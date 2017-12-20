@@ -39,9 +39,9 @@ In the **Description** field, type a descriptive, concise sentence explaining th
 
 Include relevant search terms in the **Keywords** field. This will also help search engines like Google find your webpages.
 
-![79](../assets/79.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/79.png)
 
-![80](../assets/80.jpeg)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/80.jpeg)
 
 ### Optimize Your Copy {#optimize-your-copy}
 
@@ -62,7 +62,7 @@ To create a heading or subheading in the Cascade content management system, sele
 * For headers in the content areas of your webpages, use **“Heading 2”**
 * For subheaders, use **“Heading 3.”**
 
-![81](../assets/81.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/81.png)
 
 The importance of a heading descends as its number ascends — information used as a Heading 2 should be more important than that of a Heading 3.
 
@@ -82,13 +82,13 @@ For detailed instructions on adding links in Cascade, see the “[Inserting and 
 
 **It is also important to fill in the “Title” of your link.**
 
-![82](../assets/82.jpeg)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/82.jpeg)
 
 The text you enter into the “Title” field shows up as the “tool tip” text that appears over a link when a user hovers their mouse over it on a finished page.
 
 Not only can this information be extremely helpful when navigating our website, it’s also a requirement to keep a web page compliant with ADA standards.
 
-![83](../assets/83.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/83.png)
 
 ### Use Alt Tags on All Images {#use-alt-tags-on-all-images}
 

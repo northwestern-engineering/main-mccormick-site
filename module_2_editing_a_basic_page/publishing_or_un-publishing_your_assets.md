@@ -6,12 +6,12 @@ Clicking “Submit” or “Check Content & Submit” at the top right of the pa
 
 The publishing process is simple:
 
-![](/assets/72.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/72.png)
 
 1. After submitting, click the “Publish” tab at the top of the page preview window. You can also hover over the page in the left navigation panel and click the white down arrow that appears next to the Asset Name and select “Publish.”
 2. You’ll see two areas of the screen, where you’ll configure the publishing process for your pages:
 
-![73](../assets/73.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/73.png)
 
 * **Output:** This area displays in what kind of outputs you’ll be publishing your edits to the servers.
 * **Destination:** This area shows to which servers you’ll be publishing your edits. Here you should see two options with check boxes. Those options are the two servers you can publish to:
@@ -39,7 +39,7 @@ To view your latest published changes in a browser, you may need to refresh the 
 
 The un-publishing process is simple:
 
-![](/assets/75.png)![](/assets/76.png)
+![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/75.png)![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/76.png)
 
 1. Go to **MoreUn-publish** and make sure you have the correct destination selected for un-publish task.
 2. Locate and click the **Submit** button to un-publish. This will remove the asset from the live server but it will stay in Cascade.
