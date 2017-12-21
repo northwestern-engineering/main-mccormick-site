@@ -24,7 +24,7 @@
   * [Submit Vs. Publish](module_2/submit_vs_publish.md)
   * [Publishing or Un-publishing Your Assets ](module_2/publishing_unpublishing.md)
   * [Publishing the Entire Website](module_2/publishing_entirewebsite.md)
-  * [Writing for the Web](module_2/writing_for_the_web.md)
+  * [Writing for the Web](module_2/writing_fortheweb.md)
 * [Module 3: Images, Documents & Videos](module_3/README.md)
   * [Preparing Images](module_3/preparing_images.md)
   * [Uploading Image/Doc ](module_3/uploading_imagedoc.md)
