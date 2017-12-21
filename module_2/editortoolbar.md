@@ -6,9 +6,7 @@ Cascade’s editor toolbar lets you apply the same basic formatting you’d have
 
 Many of the options on the Cascade editor toolbar \(especially the ones on the left side\) will be familiar to users of common word processing software. You can perform many of the same actions to format text as you can in a program like Microsoft Word.
 
-#### Important!
-
-Use only Cascade’s built-in formatting tools!
+#### Important: Use only Cascade’s built-in formatting tools!
 
 McCormick IT has configured Cascade’s text formatting to ensure that web pages are **uniform** and **consistent** throughout McCormick websites.
 
