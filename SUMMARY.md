@@ -23,7 +23,7 @@
   * [Save & Preview Vs. Submit](module_2/saveprev_submit.md)
   * [Submit Vs. Publish](module_2/submit_publish.md)
   * [Publishing or Un-publishing Your Assets ](module_2/publish_unpublish.md)
-  * [Publishing the Entire Website](module_2/publish_entiresite.md)
+  * [Publishing the Entire Website](module_2/publish_entire.md)
   * [Writing for the Web](module_2/writing_fortheweb.md)
 * [Module 3: Images, Documents & Videos](module_3/README.md)
   * [Preparing Images](module_3/preparing_images.md)
