@@ -1,7 +1,7 @@
 # Summary
 
 * [Main McCormick Site](README.md)
-* [What’s Responsive?](whats-responsive/README.md)
+* [What’s Responsive?](whats_responsive/README.md)
   * [Desktop Size](whats_responsive/desktop_size.md)
   * [Tablet Size](whats_responsive/tablet_size.md)
   * [Mobile Phone Size](whats_responsive/mobile_phone_size.md)
