@@ -13,7 +13,7 @@
   * [Assets](module_1/assets.md)
 * [Module 2: Editing a Basic Page](module_2/README.md)
   * [Editor Toolbar - WYSIWYG](module_2/editortoolbar.md)
-  * [Basic Formatting](module_2/basic_formatting.md)
+  * [Basic Formatting](module_2/basic_format.md)
   * [Headings and Subheadings](module_2/headings_subheadings.md)
   * [Copying and Pasting ](module_2/copying_pasting.md)
   * [Inserting and Editing Links](module_2/links.md)
