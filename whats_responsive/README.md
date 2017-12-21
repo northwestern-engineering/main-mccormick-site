@@ -1,4 +1,4 @@
-# What’s Responsive? {#what-s-responsive}
+# What’s Responsive?? {#what-s-responsive}
 
 ![](https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/assets/2.jpeg)
 
