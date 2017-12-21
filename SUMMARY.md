@@ -14,7 +14,7 @@
 * [Module 2: Editing a Basic Page](module_2/README.md)
   * [Editor Toolbar - WYSIWYG](module_2/editortoolbar.md)
   * [Basic Formatting](module_2/basic_format.md)
-  * [Headings and Subheadings](module_2/headings_subheadings.md)
+  * [Headings and Subheadings](module_2/heads_subheads.md)
   * [Copying and Pasting ](module_2/copy_paste.md)
   * [Inserting and Editing Links](module_2/links.md)
   * [Anchor Links](module_2/anchor_links.md)
