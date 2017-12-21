@@ -19,7 +19,7 @@
   * [Inserting and Editing Links](module_2/inserting_and_editing_links.md)
   * [Anchor Links](module_2/anchor_links.md)
   * [Sidebar Options](module_2/sidebar_options.md)
-  * [Draft](module-2-editing-a-basic-page/draft.md)
+  * [Draft](module_2/draft.md)
   * [Save & Preview Vs. Submit](module_2/save_&_preview_vs_submit.md)
   * [Submit Vs. Publish](module_2/submit_vs_publish.md)
   * [Publishing or Un-publishing Your Assets ](module_2/publishing_or_un-publishing_your_assets.md)
