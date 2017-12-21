@@ -17,7 +17,7 @@
   * [Headings and Subheadings](module_2/heads.md)
   * [Copying and Pasting ](module_2/copypaste.md)
   * [Inserting and Editing Links](module_2/links.md)
-  * [Anchor Links](module_2/anchor_links.md)
+  * [Anchor Links](module_2/anchorlinks.md)
   * [Sidebar Options](module_2/sidebar_options.md)
   * [Draft](module_2/draft.md)
   * [Save & Preview Vs. Submit](module_2/savepreview_submit.md)
