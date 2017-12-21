@@ -31,7 +31,7 @@
   * [Working with Images](module_3/working_with_images.md)
   * [Inserting an Image on Page](module_3/inserting_an_image_on_page.md)
   * [Inserting Video on Page](module_3/inserting_video_on_page.md)
-  * [Image/Video Size Cheat Sheet](module_3/imagevideo_size_cheat_sheet.md)
+  * [Image Video Size Cheat Sheet](module_3/imagevideo_size_cheat_sheet.md)
 * [Module 4: Cascade Basics 2 Structural Additions/Changes](module_4/README.md)
   * [Creating Section Folders](module_4/creating_section_folders.md)
   * [Editing Index Pages](module_4/editing_index_pages.md)
