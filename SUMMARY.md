@@ -20,7 +20,7 @@
   * [Anchor Links](module_2/anchorlinks.md)
   * [Sidebar Options](module_2/sidebar_options.md)
   * [Draft](module_2/draft.md)
-  * [Save & Preview Vs. Submit](module_2/saveprev_submit.md)
+  * [Save & Preview Vs. Submit](module_2/saveprevsubmit.md)
   * [Submit Vs. Publish](module_2/submit_publish.md)
   * [Publishing the Entire Website](module_2/publishentire.md)
   * [Publishing or Un-publishing Your Assets ](module_2/publishunpublish.md)
