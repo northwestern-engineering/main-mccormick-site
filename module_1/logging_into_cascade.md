@@ -1,4 +1,4 @@
-## Logging in to Cascade {#logging-in-to-cascade}
+## Logging into Cascade {#logging-in-to-cascade}
 
 Open a browser and enter the following URL \(or click this link\): [http://mordac.itcs.northwestern.edu/](http://mordac.itcs.northwestern.edu/)You will be redirected to the NU Online Passport Single Sign-On page.
 

@@ -6,7 +6,7 @@
   * [Tablet Size](whats_responsive/tablet_size.md)
   * [Mobile Phone Size](whats_responsive/mobile_phone_size.md)
 * [Module 1: Cascade Basics 1 Getting Familiar](module_1/README.md)
-  * [Logging in to Cascade    ](module_1/logging_in_to_cascade.md)
+  * [Logging into Cascade    ](module_1/logging_into_cascade.md)
   * [The Toolbar    ](module_1/the_toolbar.md)
   * [The Dashboard](module_1/the_dashboard.md)
   * [The Home Screen ](module_1/the_home_screen.md)
