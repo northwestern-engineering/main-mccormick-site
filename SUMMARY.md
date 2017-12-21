@@ -2,9 +2,9 @@
 
 * [Main McCormick Site](README.md)
 * [What’s Responsive?](whats_responsive/README.md)
-  * [Desktop Size](whats_responsive/desktop_size.md)
-  * [Tablet Size](whats_responsive/tablet_size.md)
-  * [Mobile Phone Size](whats_responsive/mobile_phone_size.md)
+  * [Desktop Size](whats_responsive/desktopsize.md)
+  * [Tablet Size](whats_responsive/tabletsize.md)
+  * [Mobile Phone Size](whats_responsive/mobilephonesize.md)
 * [Module 1: Cascade Basics 1 Getting Familiar](module_1/README.md)
   * [Logging into Cascade    ](module_1/logging.md)
   * [The Toolbar    ](module_1/toolbar.md)
