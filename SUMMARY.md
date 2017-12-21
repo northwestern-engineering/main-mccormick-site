@@ -45,8 +45,8 @@
   * [Deleting Folders/Files](module_4/deletingfoldersfiles.md)
   * [Development Server](module_4/developmentserver.md)
 * [Module 5: Other Helpful Tips](module_5/README.md)
-  * [Mark Content for Review](module_5/mark_content_for_review.md)
+  * [Mark Content for Review](module_5/markcontentforreview.md)
   * [Versions](module_5/versions.md)
-  * [Creating Line or Paragraph Breaks    ](module_5/creating_line_or_paragraph_breaks.md)
-  * [Basic Troubleshooting](module_5/basic_troubleshooting.md)
+  * [Creating Line or Paragraph Breaks    ](module_5/creatinglineorparagraphbreaks.md)
+  * [Basic Troubleshooting](module_5/basictroubleshooting.md)
 
