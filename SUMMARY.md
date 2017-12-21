@@ -28,7 +28,7 @@
 * [Module 3: Images, Documents & Videos](module_3/README.md)
   * [Preparing Images](module_3/preparing_images.md)
   * [Uploading Image/Doc ](module_3/uploading_imagedoc.md)
-  * [Working with Images](module_3/working_with_images.md)
+  * [Working with Images](module_3/workwith_images.md)
   * [Inserting an Image on Page](module_3/inserting_image.md)
   * [Inserting Video on Page](module_3/inserting_video.md)
   * [Image Video Size Cheat Sheet](module_3/imagevideo_size.md)
