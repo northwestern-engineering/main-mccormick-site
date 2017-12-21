@@ -15,7 +15,7 @@
   * [Editor Toolbar - WYSIWYG](module_2/editortoolbar.md)
   * [Basic Formatting](module_2/basic_format.md)
   * [Headings and Subheadings](module_2/headings_subheadings.md)
-  * [Copying and Pasting ](module_2/copying_pasting.md)
+  * [Copying and Pasting ](module_2/copy_paste.md)
   * [Inserting and Editing Links](module_2/links.md)
   * [Anchor Links](module_2/anchor_links.md)
   * [Sidebar Options](module_2/sidebar_options.md)
