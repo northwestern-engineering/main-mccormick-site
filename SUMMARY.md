@@ -18,7 +18,7 @@
   * [Copying and Pasting ](module_2/copypaste.md)
   * [Inserting and Editing Links](module_2/links.md)
   * [Anchor Links](module_2/anchorlinks.md)
-  * [Sidebar Options](module_2/sidebar_options.md)
+  * [Sidebar Options](module_2/sidebaroptions.md)
   * [Draft](module_2/draft.md)
   * [Save & Preview Vs. Submit](module_2/saveprevsubmit.md)
   * [Submit Vs. Publish](module_2/submit_publish.md)
